@@ -4,7 +4,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 2nd Year Data Science Student
+- 🎓 Data Science Student
 - 🤖 Building ML apps using FastAPI + React
 - 📊 Passionate about Trading & Data Analysis
 - 💡 Focused on real-world AI solutions
@@ -60,7 +60,7 @@
 </p>
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Nobodyknow-01/Nobodyknow-01/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
