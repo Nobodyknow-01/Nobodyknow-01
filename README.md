@@ -66,10 +66,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kumavat-b3345a38b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Kumavat-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/shubham-kumavat-b3345a38b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:shubham.g.kumavat.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:shubham.g.kumavat.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
